@@ -6,7 +6,7 @@ I developed a web application as part of my previous project and it was based on
 	<br>-MongoDB
 	<br>-API development
 
-
+<br>
 ![image](https://github.com/AGEugenio/Coconut_Web_App/assets/113889259/567dc561-e0a1-420e-997d-7f7249a27ce0)
 
 ![image](https://github.com/AGEugenio/Coconut_Web_App/assets/113889259/2828f1a7-992d-44d0-a905-10eed929b2e7)
