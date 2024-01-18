@@ -1,7 +1,7 @@
 # Coconut_Web_App
 
 I developed a web application as part of my previous project and it was based on my previous project design, Coconut Maturity Checker. Initiated as a requisite for one of my subjects, this endeavor provided an invaluable learning experience. Although I couldn't complete the entire functionality due to changes in my project team and design topic, the process enriched my understanding of various technologies. Throughout this project, I expanded my knowledge in:
-	/n Python, HTML, and CSS
+	\n Python, HTML, and CSS
 	-Flask
 	-MongoDB
 	-API development
