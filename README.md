@@ -1,6 +1,7 @@
-# Coconut_Web_App
+# Web_App
+This is a backup of files in the web application I developed as part of my previous project in one of my subjects. 
 
-I developed a web application as part of my previous project and it was based on my previous project design, Coconut Maturity Checker. Initiated as a requisite for one of my subjects, this endeavor provided an invaluable learning experience. Although I couldn't complete the entire functionality due to changes in my project team and design topic, the process enriched my understanding of various technologies. Throughout this project, I expanded my knowledge in:
+This was based on my previous project design, Coconut Maturity Checker. Initiated as a requisite for one of my subjects, this endeavor provided an invaluable learning experience. Although I couldn't complete the entire functionality due to some circumstance, the process enriched my understanding of various technologies. Throughout this project, I expanded my knowledge in:
 	<br>-Python, HTML, and CSS
 	<br>-Flask
 	<br>-MongoDB
